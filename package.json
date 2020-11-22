@@ -1,0 +1,15 @@
+{
+  "name": "nodearduino",
+  "version": "1.0.0",
+  "description": "nodejs project to comunicate with arduino using jonny-five",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "Edrich Mkhasi",
+  "license": "MIT",
+  "dependencies": {
+    "johnny-five": "^2.0.0"
+  }
+}
